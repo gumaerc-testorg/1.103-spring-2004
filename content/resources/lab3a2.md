@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This ZIP file contains data files associated with Lab 3.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-103-civil-engineering-materials-laboratory-spring-2004/a58d961d48272d62c8a977e9e82b68e4_Lab3A2.zip
+file: /media/courses/1-103-civil-engineering-materials-laboratory-spring-2004/a58d961d48272d62c8a977e9e82b68e4_Lab3A2.zip
 file_type: application/zip
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Other
 title: Lab3A2.zip
 uid: a58d961d-4827-2d62-c8a9-77e9e82b68e4

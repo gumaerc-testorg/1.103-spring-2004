@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-103-civil-engineering-materials-laboratory-spring-2004/97fef128421bd11b3bdc8ed083f44508_lab6_groupB1.zip
+file: /media/courses/1-103-civil-engineering-materials-laboratory-spring-2004/97fef128421bd11b3bdc8ed083f44508_lab6_groupB1.zip
 file_type: application/zip
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Other
 title: lab6_groupB1.zip
 uid: 97fef128-421b-d11b-3bdc-8ed083f44508

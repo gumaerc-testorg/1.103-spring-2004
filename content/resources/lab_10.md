@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Instructions for laboratory assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-103-civil-engineering-materials-laboratory-spring-2004/2713cb7751cd419c0f0fb8cbd0bbfb20_lab_10.pdf
+file: /media/courses/1-103-civil-engineering-materials-laboratory-spring-2004/2713cb7751cd419c0f0fb8cbd0bbfb20_lab_10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: lab_10.pdf
 uid: 2713cb77-51cd-419c-0f0f-b8cbd0bbfb20
