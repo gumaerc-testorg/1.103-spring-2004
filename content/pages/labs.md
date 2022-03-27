@@ -44,13 +44,13 @@ Subgroup B2 Data ([ZIP]({{< baseurl >}}/resources/lab1_groupb2))
 Lab 2. Tension I - Elastic Behavior ([PDF]({{< baseurl >}}/resources/lab_2))
 {{< tdclose >}}
 {{< tdopen >}}
-Subgroup A1 Data ([TXT](/courses/civil-and-environmental-engineering/1-103-civil-engineering-materials-laboratory-spring-2004/labs/a1thick.txt))  
+Subgroup A1 Data ([TXT]({{< baseurl >}}/resources/a1thick))  
   
-Subgroup A2 Data ([TXT](/courses/civil-and-environmental-engineering/1-103-civil-engineering-materials-laboratory-spring-2004/labs/a2thin.txt))  
+Subgroup A2 Data ([TXT]({{< baseurl >}}/resources/a2thin))  
   
-Subgroup B1 Data ([TXT](/courses/civil-and-environmental-engineering/1-103-civil-engineering-materials-laboratory-spring-2004/labs/b1long.txt))  
+Subgroup B1 Data ([TXT]({{< baseurl >}}/resources/b1long))  
   
-Subgroup B2 Data ([TXT](/courses/civil-and-environmental-engineering/1-103-civil-engineering-materials-laboratory-spring-2004/labs/b2std.txt))  
+Subgroup B2 Data ([TXT]({{< baseurl >}}/resources/b2std))  
   
 Lab 2 Summary ([PDF]({{< baseurl >}}/resources/lab_2_summary))
 {{< tdclose >}}
