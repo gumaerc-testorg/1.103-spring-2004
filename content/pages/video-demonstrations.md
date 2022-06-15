@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Video Demonstrations
 uid: e96b654e-9d6b-4acd-3e68-cd86105313ee
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The videos below feature the course instructor, Dr. John Germaine, demonstrating the important elements of the first lab assignment in 1.103. The software featured in the videos is courtesy of John Germaine and Stephen Rudolph.
