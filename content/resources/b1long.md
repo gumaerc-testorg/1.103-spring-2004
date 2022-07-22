@@ -1,8 +1,8 @@
 ---
 content_type: resource
-description: ''
-file: /courses/1-103-civil-engineering-materials-laboratory-spring-2004/fa0d164f2ae68b698289cb6158654d81_GroupA2.zip
-file_type: application/octet-stream
+description: Data file for Lab 2.
+file: /courses/1-103-civil-engineering-materials-laboratory-spring-2004/8b1231dd6bd05239b94ebca4f9663f10_b1long.txt
+file_type: text/plain
 learning_resource_types:
 - Labs
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -11,10 +11,11 @@ parent_title: Labs
 parent_type: CourseSection
 parent_uid: ceadcd63-d6dd-fe94-8798-195723bb10fa
 resourcetype: Other
-title: ''
-uid: fa0d164f-2ae6-8b69-8289-cb6158654d81
+title: b1long.txt
+uid: 8b1231dd-6bd0-5239-b94e-bca4f9663f10
 video_files:
   video_thumbnail_file: null
 video_metadata:
   youtube_id: null
 ---
+Data file for Lab 2.

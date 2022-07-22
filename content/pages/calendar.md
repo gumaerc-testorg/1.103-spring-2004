@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 592efbd1-e948-a89f-cc32-5cdc69fad0d8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The students in this course are split into two groups (A and B). Each of these groups is split into even smaller subgroups of 3 to 5 students. The laboratory assignments are completed in these subgroups while the lectures (lab introductions) are attended by the larger group.
