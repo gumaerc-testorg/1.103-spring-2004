@@ -5,6 +5,7 @@ file: /courses/1-103-civil-engineering-materials-laboratory-spring-2004/682339ef
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Data file for Lab 2.
-

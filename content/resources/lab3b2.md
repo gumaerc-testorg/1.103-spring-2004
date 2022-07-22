@@ -5,6 +5,7 @@ file: /courses/1-103-civil-engineering-materials-laboratory-spring-2004/f61de885
 file_type: application/zip
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This ZIP file contains data files associated with Lab 3.
-
