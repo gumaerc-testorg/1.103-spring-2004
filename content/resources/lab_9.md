@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions for laboratory assignment.
 file: /courses/1-103-civil-engineering-materials-laboratory-spring-2004/d3c36fbd5fecb45bd0a1230cb05aec75_lab_9.pdf
+file_size: 133678
 file_type: application/pdf
 learning_resource_types:
 - Labs

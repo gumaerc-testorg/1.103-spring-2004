@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-103-civil-engineering-materials-laboratory-spring-2004/5eaf4ae55f84dd95eb13cea4f0ea26b8_lab4_groupA2.zip
+file_size: 98088
 file_type: application/zip
 learning_resource_types:
 - Labs
