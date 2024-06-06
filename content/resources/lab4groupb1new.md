@@ -2,6 +2,7 @@
 content_type: resource
 description: This ZIP file contains data files associated with Lab 4.
 file: /courses/1-103-civil-engineering-materials-laboratory-spring-2004/9bf25a6e2d87ffdd7b0a1aae7404640c_Lab4GroupB1New.zip
+file_size: 13239
 file_type: application/zip
 learning_resource_types:
 - Labs
