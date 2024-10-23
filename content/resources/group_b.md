@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Data table for Lab 5.
-file: /courses/1-103-civil-engineering-materials-laboratory-spring-2004/117cb231a40dedea78259c7e338bf39c_group_b.pdf
+file: /ol-ocw-studio-app/courses/1-103-civil-engineering-materials-laboratory-spring-2004/117cb231a40dedea78259c7e338bf39c_group_b.pdf
 file_size: 99133
 file_type: application/pdf
 learning_resource_types:
