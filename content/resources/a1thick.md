@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Data file for Lab 2.
-file: /courses/1-103-civil-engineering-materials-laboratory-spring-2004/ac7d7f586bb9c8bf0ab89f5bb04e8a55_a1thick.txt
+file: /ol-ocw-studio-app/courses/1-103-civil-engineering-materials-laboratory-spring-2004/ac7d7f586bb9c8bf0ab89f5bb04e8a55_a1thick.txt
 file_size: 37726
 file_type: text/plain
 learning_resource_types:

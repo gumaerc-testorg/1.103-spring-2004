@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This ZIP file contains data files associated with Lab 10.
-file: /courses/1-103-civil-engineering-materials-laboratory-spring-2004/42046e18659b007228df2c91bc969dbd_Lab10_Tensile_Data.zip
+file: /ol-ocw-studio-app/courses/1-103-civil-engineering-materials-laboratory-spring-2004/42046e18659b007228df2c91bc969dbd_Lab10_Tensile_Data.zip
 file_size: 56544
 file_type: application/zip
 learning_resource_types:

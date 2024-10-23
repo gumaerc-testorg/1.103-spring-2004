@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for laboratory assignment.
-file: /courses/1-103-civil-engineering-materials-laboratory-spring-2004/9df9f12c2e7cd9ec86e83eec3e118df2_lab_8.pdf
+file: /ol-ocw-studio-app/courses/1-103-civil-engineering-materials-laboratory-spring-2004/9df9f12c2e7cd9ec86e83eec3e118df2_lab_8.pdf
 file_size: 138123
 file_type: application/pdf
 learning_resource_types:

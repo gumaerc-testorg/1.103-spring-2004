@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This ZIP file contains data files associated with Lab 9.
-file: /courses/1-103-civil-engineering-materials-laboratory-spring-2004/726ca590ed148498bfc1c6d9ef8b1a46_Oed20.zip
+file: /ol-ocw-studio-app/courses/1-103-civil-engineering-materials-laboratory-spring-2004/726ca590ed148498bfc1c6d9ef8b1a46_Oed20.zip
 file_size: 93921
 file_type: application/zip
 learning_resource_types:

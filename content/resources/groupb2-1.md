@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-103-civil-engineering-materials-laboratory-spring-2004/8f214b5602418ff3667312d86ec243f7_groupB2.zip
+file: /ol-ocw-studio-app/courses/1-103-civil-engineering-materials-laboratory-spring-2004/8f214b5602418ff3667312d86ec243f7_groupB2.zip
 file_size: 35896
 file_type: application/octet-stream
 learning_resource_types:
