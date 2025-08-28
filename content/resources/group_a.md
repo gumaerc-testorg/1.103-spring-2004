@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Data table for Lab 5.
-file: /courses/1-103-civil-engineering-materials-laboratory-spring-2004/d2acc7a33a9fe3902f9cc8e16e75a3b3_group_a.pdf
+file: /ol-ocw-studio-app/courses/1-103-civil-engineering-materials-laboratory-spring-2004/d2acc7a33a9fe3902f9cc8e16e75a3b3_group_a.pdf
 file_size: 99806
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
