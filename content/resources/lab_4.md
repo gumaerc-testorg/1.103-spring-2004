@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Instructions for laboratory assignment.
-file: /courses/1-103-civil-engineering-materials-laboratory-spring-2004/2f4d919085e5d2b32e1c9116d9a852fb_lab_4.pdf
+file: /ol-ocw-studio-app/courses/1-103-civil-engineering-materials-laboratory-spring-2004/2f4d919085e5d2b32e1c9116d9a852fb_lab_4.pdf
 file_size: 152027
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
