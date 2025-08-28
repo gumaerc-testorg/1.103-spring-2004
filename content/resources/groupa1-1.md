@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-103-civil-engineering-materials-laboratory-spring-2004/924ee79bd35f612f6fcbb09255d93654_GroupA1.zip
+file: /ol-ocw-studio-app/courses/1-103-civil-engineering-materials-laboratory-spring-2004/924ee79bd35f612f6fcbb09255d93654_GroupA1.zip
 file_size: 35896
 file_type: application/octet-stream
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
